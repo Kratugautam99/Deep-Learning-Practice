@@ -6,11 +6,11 @@
 
 ## 📖 Table of Contents
 
-- [ℹ️ About](#-about)  
+- [ℹ️ About](#about)  
 - [✨ Features](#-features)  
 - [🧱 Structure](#-structure)  
 - [🚀 Getting Started](#-getting-started)  
-- [⚙️ Usage](#-usage)  
+- [⚙️ Usage](#usage)  
 - [🤝 Contributing](#-contributing)  
 - [📄 License](#-license)  
 
