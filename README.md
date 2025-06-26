@@ -6,13 +6,13 @@
 
 ## 📖 Table of Contents
 
-- [ℹ️ About](#about)  
-- [✨ Features](#features)  
-- [🧱 Structure](#structure)  
-- [🚀 Getting Started](#getting-started)  
-- [⚙️ Usage](#usage)  
-- [🤝 Contributing](#contributing)  
-- [📄 License](#license)  
+- [ℹ️ About](#-about)  
+- [✨ Features](#-features)  
+- [🧱 Structure](#-structure)  
+- [🚀 Getting Started](#-getting-started)  
+- [⚙️ Usage](#-usage)  
+- [🤝 Contributing](#-contributing)  
+- [📄 License](#-license)  
 
 ---
 
@@ -77,19 +77,19 @@
 
 - **Explore FCC Notebooks**  
   ```bash
-  jupyter notebook "Jupyter Files (By FCC)/FCC_Deep_Learning_Module.ipynb"
+  jupyter notebook "Jupyter Files (By FCC)/{DLModel.ipynb filename}"
   ```
 - **Run Challenge Solutions**  
   ```bash
-  python "FreeCodeCamp ML Challenges/challenge_01_solution.py"
+  python "FreeCodeCamp ML Challenges/{Challenge Solution}"
   ```
 - **Train a Model**  
   ```bash
-  python "General Deep Learning (Algorithms & Libraries)/train_mnist.py" --epochs 10
+  python "General Deep Learning (Algorithms & Libraries)/{Mentioned Topics}" 
   ```
 - **Execute an NLP Script**  
   ```bash
-  python "Natural Language Processing (Algorithms & Libraries)/text_classification.py"
+  python "Natural Language Processing (Algorithms & Libraries)/{Mentioned Topics}"
   ```
 
 ---
