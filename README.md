@@ -3,25 +3,23 @@
 > A hands-on deep learning playground: curated FreeCodeCamp certification challenges, algorithm implementations, NLP experiments, and structured I/O workflows.
 
 ---
-
 ## 📖 Table of Contents
 
-- [ℹ️ About](#about)  
+- [ℹ️ About](#-about)  
 - [✨ Features](#-features)  
 - [🧱 Structure](#-structure)  
 - [🚀 Getting Started](#-getting-started)  
-- [⚙️ Usage](#usage)  
+- [⚙️ Usage](#-usage)  
 - [🤝 Contributing](#-contributing)  
 - [📄 License](#-license)  
 
 ---
-
+<a id="-about"></a>
 ## ℹ️ About
 
 **Deep-Learning-Practice** is a comprehensive collection of tutorials, code samples, and challenge solutions designed to reinforce both theory and practice in modern deep learning. Organized around the FreeCodeCamp (FCC) curriculum, this repository helps you prepare for the FCC Machine Learning certification while exploring core neural-network architectures, data pipelines, and Natural Language Processing (NLP) techniques.
 
 ---
-
 ## ✨ Features
 
 - 🎓 **FCC Documentation & Notebooks**  
@@ -36,7 +34,6 @@
   Organized `Inputs/` and `Outputs/` folders for reproducible experiments and data management.
 
 ---
-
 ## 🧱 Structure
 
 ```text
@@ -52,7 +49,6 @@
 ```
 
 ---
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**  
@@ -72,7 +68,7 @@
    _Typical packages include TensorFlow, PyTorch, scikit-learn, pandas, NumPy, matplotlib, and Jupyter._
 
 ---
-
+<a id="-usage"></a>
 ## ⚙️ Usage
 
 - **Explore FCC Notebooks**  
@@ -93,7 +89,6 @@
   ```
 
 ---
-
 ## 🤝 Contributing
 
 Contributions, issue reports, and pull requests are welcome! To contribute:
@@ -112,7 +107,6 @@ Contributions, issue reports, and pull requests are welcome! To contribute:
 Please follow the [Code of Conduct](https://opensource.org/code-of-conduct).
 
 ---
-
 ## 📄 License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
