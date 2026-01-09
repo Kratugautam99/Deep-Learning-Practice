@@ -43,6 +43,7 @@
 ├── FreeCodeCamp ML Challenges/               # My challenge solutions for FCC certification
 ├── General Deep Learning (Algorithms & Libraries)/ # Custom implementations & library demos
 ├── Natural Language Processing (Algorithms & Libraries)/ # NLP algorithms, transformers & scripts
+├── LLM FineTuning                            # FineTuning LLM for better responses.
 ├── Inputs/                                   # Datasets, feature files & raw inputs
 ├── Outputs/                                  # Trained models, logs & result files
 └── README.md                                 # Project overview
@@ -81,11 +82,15 @@
   ```
 - **Train a Model**  
   ```bash
-  python "General Deep Learning (Algorithms & Libraries)/{Mentioned Topics}" 
+  python "General Deep Learning (Algorithms & Libraries)/{Mentioned Files}" 
   ```
 - **Execute an NLP Script**  
   ```bash
-  python "Natural Language Processing (Algorithms & Libraries)/{Mentioned Topics}"
+  python "Natural Language Processing (Algorithms & Libraries)/{Mentioned Files}"
+  ```
+- **FineTuning LLM**
+  ```bash
+  python "LLM FineTuning/{Mentioned Files}"
   ```
 
 ---
