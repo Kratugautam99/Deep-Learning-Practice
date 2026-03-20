@@ -1,6 +1,6 @@
 # Deep-Learning-Practice
 
-> A hands-on deep learning playground: curated FreeCodeCamp certification challenges, algorithm implementations, NLP experiments, and structured I/O workflows.
+> A hands-on deep learning playground: curated FreeCodeCamp certification challenges, algorithm implementations, and structured I/O workflows.
 
 ---
 ## 📖 Table of Contents
@@ -17,7 +17,7 @@
 <a id="-about"></a>
 ## ℹ️ About
 
-**Deep-Learning-Practice** is a comprehensive collection of tutorials, code samples, and challenge solutions designed to reinforce both theory and practice in modern deep learning. Organized around the FreeCodeCamp (FCC) curriculum, this repository helps you prepare for the FCC Machine Learning certification while exploring core neural-network architectures, data pipelines, and Natural Language Processing (NLP) techniques.
+**Deep-Learning-Practice** is a comprehensive collection of tutorials, code samples, and challenge solutions designed to reinforce both theory and practice in modern deep learning. Organized around the FreeCodeCamp (FCC) curriculum, this repository helps you prepare for the FCC Machine Learning certification while exploring core neural-network architectures and data pipelines.
 
 ---
 ## ✨ Features
@@ -28,8 +28,6 @@
   My solutions to FCC’s machine-learning tasks—ideal for certification prep and reference.  
 - 🧠 **General Deep Learning**  
   Implementations of core algorithms and experiments with TensorFlow, PyTorch, Keras, and more.  
-- 💬 **Natural Language Processing**  
-  Text-processing pipelines, word embeddings, RNNs, Transformers, and practical NLP demos.  
 - 🚀 **Structured I/O Workflows**  
   Organized `Inputs/` and `Outputs/` folders for reproducible experiments and data management.
 
@@ -42,8 +40,6 @@
 ├── Jupyter Files (By FCC)/                   # FCC notebooks & exercises
 ├── FreeCodeCamp ML Challenges/               # My challenge solutions for FCC certification
 ├── General Deep Learning (Algorithms & Libraries)/ # Custom implementations & library demos
-├── Natural Language Processing (Algorithms & Libraries)/ # NLP algorithms, transformers & scripts
-├── LLM FineTuning                            # FineTuning LLM for better responses.
 ├── Inputs/                                   # Datasets, feature files & raw inputs
 ├── Outputs/                                  # Trained models, logs & result files
 └── README.md                                 # Project overview
@@ -84,10 +80,6 @@
   ```bash
   python "General Deep Learning (Algorithms & Libraries)/{Mentioned Files}" 
   ```
-- **Execute an NLP Script**  
-  ```bash
-  python "Natural Language Processing (Algorithms & Libraries)/{Mentioned Files}"
-  ```
 - **FineTuning LLM**
   ```bash
   python "LLM FineTuning/{Mentioned Files}"
@@ -114,6 +106,4 @@ Please follow the [Code of Conduct](https://opensource.org/code-of-conduct).
 ---
 ## 📄 License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
+This project is licensed under the **MIT License**. See `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]` for details.
