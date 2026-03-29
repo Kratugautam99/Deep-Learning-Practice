@@ -37,14 +37,14 @@
 ## 📁 Repository Structure
 
 ```text
-.
-├── Documentations (By FCC)/                  # FCC deep learning reference material
-├── Jupyter Files (By FCC)/                   # FCC notebooks & exercises
-├── FreeCodeCamp ML Challenges/               # My challenge solutions for FCC certification
-├── General Deep Learning (Algorithms & Libraries)/ # Custom implementations & library demos
-├── Inputs/                                   # Datasets, feature files & raw inputs
-├── Outputs/                                  # Trained models, logs & result files
-└── README.md                                 # Project overview
+Deep-Learning-Practice/
+├── Documentations (By FCC)/                          # FCC deep learning reference material
+├── Jupyter Files (By FCC)/                           # FCC notebooks & exercises
+├── FreeCodeCamp ML Challenges/                       # My challenge solutions for FCC certification
+├── General Deep Learning (Algorithms & Libraries)    # Custom implementations & library demos
+├── Inputs/                                           # Datasets, feature files & raw inputs
+├── Outputs/                                          # Trained models, logs & result files
+└── README.md                                         # Project overview
 ```
 
 ---
