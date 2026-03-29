@@ -108,4 +108,4 @@ Please follow the [Code of Conduct](https://opensource.org/code-of-conduct).
 ---
 ## 📄 License
 
-This project is licensed under the **MIT License**. See `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]` for details.
+This project is licensed under the **MIT License**.
