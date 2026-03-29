@@ -9,7 +9,7 @@
 
 - [ℹ️ About](#-about)  
 - [✨ Features](#-features)  
-- [🧱 Structure](#-structure)  
+- [📁 Repository Structure](#-repository-structure)  
 - [🚀 Getting Started](#-getting-started)  
 - [⚙️ Usage](#-usage)  
 - [🤝 Contributing](#-contributing)  
@@ -34,7 +34,7 @@
   Organized `Inputs/` and `Outputs/` folders for reproducible experiments and data management.
 
 ---
-## 🧱 Structure
+## 📁 Repository Structure
 
 ```text
 .
