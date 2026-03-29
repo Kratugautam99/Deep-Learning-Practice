@@ -1,6 +1,8 @@
-# Deep-Learning-Practice
+# 🔭 Deep-Learning-Practice
 
 > A hands-on deep learning playground: curated FreeCodeCamp certification challenges, algorithm implementations, and structured I/O workflows.
+
+![DLImg](https://github.com/Kratugautam99/Deep-Learning-Practice/blob/main/Inputs/Dl.png)
 
 ---
 ## 📖 Table of Contents
